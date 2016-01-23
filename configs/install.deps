@@ -1,1 +1,1 @@
-sudo apt-get install -y xinit xterm
+sudo apt-get install -y xinit xterm xcompmgr

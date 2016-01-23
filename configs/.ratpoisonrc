@@ -1,4 +1,4 @@
 set border 0
-bind f exec firefox --remote "openurl(`$RATPOISON -c getsel`,new-tab)" # C-f : new tab
-escape C-z
+bind f exec firefox --remote "openurl(`$RATPOISON -c getsel`,new-tab)" # C-f : open link in new tab
+escape C-x
 bind c exec rxvt -rv +sb -sl 1000 -font 9x15 -ls # Decent term

@@ -1,1 +1,1 @@
-sudo apt-get install -y xinit xterm xcompmgr
+sudo apt-get install -y xinit xterm xcompmgr terminology mc scrot irssi tty-clock
